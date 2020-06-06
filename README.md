@@ -8,10 +8,17 @@
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
+- [How To](#how-to)
 - [Styles](#styles)
   - [GitHub](#github)
   - [Other sites](#other-sites)
 - [Contributing](#contributing)  
+
+## How To
+The recommended addon for userstyles is [Stylus](https://add0n.com/stylus.html).
+Install it and then click on any install button below.
+
+Stylus will open a new tab in your browser that loads the UserCSS userstyle. Make sure to press the `Install style` button, which will be followed by the text “Style Installed” if the installation is successful.
 
 ## Styles
 ### GitHub
