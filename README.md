@@ -15,8 +15,8 @@
 - [Contributing](#contributing)  
 
 ## How To
-The recommended addon for userstyles is [Stylus](https://add0n.com/stylus.html).
-Install it and then click on any install button below.
+The recommended injector for userstyles is [Stylus](https://add0n.com/stylus.html).
+Install it and then click on any install button below and/or visit the repository of a style to learn more about it.
 
 Stylus will open a new tab in your browser that loads the UserCSS userstyle. Make sure to press the `Install style` button, which will be followed by the text “Style Installed” if the installation is successful.
 
