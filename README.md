@@ -36,4 +36,4 @@ Stylus will open a new tab in your browser that loads the UserCSS userstyle. Mak
 
 ## Contributing
 
-Feel free to message me wherever you want, create an issue or submit a pull request if you know any user style that should be featured in this list. If there are two or more styles for any site, please move them to their own table.
+Feel free to message me wherever you want, create an issue or submit a pull request if you know any user style that should be featured in this list. If there are two or more styles for any site, please move them to their own table. Please also ensure that the user style works correctly and isn't outdated.
