@@ -2,7 +2,7 @@
   <h1 align="center">Awesome Userstyles</h1>
   <p align="center">A repository featuring awesome userstyles for use with Stylus.<p>
   <p align="center">
-    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Lists"></a>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome Lists"></a>
   </p>
 </p>
 
