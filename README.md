@@ -24,7 +24,7 @@ Stylus will open a new tab in your browser that loads the UserCSS userstyle. Mak
 ### GitHub
 | Preview | Name | Author | Links |
 | -- | -- | -- | -- |
-| <img src="https://github.com/StylishThemes/GitHub-Dark/raw/master/images/screenshots/after_blue.png" width="300"> | [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) | [@StylishThemes](https://github.com/StylishThemes) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/StylishThemes/GitHub-Dark/raw/master/github-dark.user.css) [![](https://img.shields.io/badge/repo-black?style=flat-square&logo=github)](https://github.com/StylishThemes/GitHub-Dark) |
+| <img src="https://github.com/StylishThemes/GitHub-Dark/raw/master/images/screenshot.png" width="300"> | [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) | [@StylishThemes](https://github.com/StylishThemes) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://github.com/StylishThemes/GitHub-Dark/raw/master/github-dark.user.css) [![](https://img.shields.io/badge/repo-black?style=flat-square&logo=github)](https://github.com/StylishThemes/GitHub-Dark) |
 | <img src="https://github.com/Brettm12345/github-moonlight/raw/master/screenshots/repo.png" width="300"> | [GitHub Moonlight](https://github.com/Brettm12345/github-moonlight) | [@Brettm12345](https://github.com/Brettm12345) | [![](https://img.shields.io/badge/install%20with-stylus-006666?style=flat-square)](https://raw.githubusercontent.com/brettm12345/github-moonlight/master/github.user.css) [![](https://img.shields.io/badge/repo-black?style=flat-square&logo=github)](https://github.com/Brettm12345/github-moonlight) |
 
 ### Other sites
