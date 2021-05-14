@@ -1,3 +1,5 @@
+ > [userstyles.world](https://userstyles.world/) is an awesome alternative to userstyles.org. Check it out!
+
  <p align="center">
   <h1 align="center">Awesome Userstyles</h1>
   <p align="center">A repository featuring awesome userstyles for use with Stylus.<p>
